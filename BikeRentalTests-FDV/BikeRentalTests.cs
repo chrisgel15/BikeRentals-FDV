@@ -5,7 +5,7 @@ using BikeRental_FDV;
 namespace BikeRentalTests_FDV
 {
     [TestClass]
-    public class UnitTest1
+    public class BikeRentalTests
     {
         [TestMethod]
         public void SubscriptionByHourCharges5Dollars()
